@@ -48,4 +48,3 @@ Final price:rs 800.0
 
 ---
 
-⭐ If you find this project useful, feel free to explore it!
